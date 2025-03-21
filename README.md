@@ -1,5 +1,5 @@
 TEXT FOR WRONG COMMIT_1
-TEXT FOR WRONG COMMIT_2
+
 
 
 # Sausage Store
